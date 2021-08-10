@@ -23,7 +23,7 @@ function setup() {
  
   //Create Player Archer Object
   playerArcher = new PlayerArcher(
-    width - 1155,
+    275,
     playerBase.body.position.y - 125,
     120,
     120
